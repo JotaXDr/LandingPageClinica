@@ -1,0 +1,20 @@
+
+.DivHeader {
+    display: flex;
+    align-items: center;
+    background-color: #FFFFFF;
+    padding: 7px;
+    justify-content: space-between;
+}
+
+
+nav {
+    display: flex;
+    justify-content: end;
+    gap: 10px;
+}
+
+p {
+    color: #66AA95;
+    padding: 3px;
+}
